@@ -1,1 +1,1 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"uploadimage-e694d","appId":"1:154895823531:android:545b47f748b2a2a2edbdee","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"uploadimage-e694d","configurations":{"android":"1:154895823531:android:545b47f748b2a2a2edbdee","ios":"1:154895823531:ios:c49007048680e0c3edbdee","macos":"1:154895823531:ios:c49007048680e0c3edbdee","web":"1:154895823531:web:1c8da7036a792d2fedbdee","windows":"1:154895823531:web:78a1aa65623536ddedbdee"}}}}}}
+replace with your fiebase.json file
